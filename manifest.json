@@ -2,6 +2,7 @@
   "manifest_version": 2,
   "version": "1.1",
   "name": "DARKu",
+  "descripion": "A Dark theme loosely inspired by Ubuntu 24.04.",
   "theme": {
     "images": {},
     "properties": []
