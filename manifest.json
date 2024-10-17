@@ -1,0 +1,21 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "DARKu",
+  "theme": {
+    "images": {},
+    "properties": []
+    },
+    "colors": {
+      "toolbar": "rgb(16, 16, 16)",
+      "toolbar_text": "rgb(242, 242, 242)",
+      "frame": "rgb(16, 16, 16)",
+      "tab_background_text": "rgb(147, 147, 147)",
+      "toolbar_field": "rgb(19, 19, 19)",
+      "toolbar_field_text": "rgb(147, 147, 147)",
+      "tab_line": "rgb(195, 195, 195)",
+      "popup": "rgb(16, 16, 16)",
+      "popup_text": "rgb(242, 242, 242)",
+      "tab_loading": "rgb(195, 195, 195)"
+    }
+}
